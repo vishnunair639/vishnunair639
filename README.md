@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnunair639&label=Profile%20views&color=0e75b6&style=flat" alt="vishnunair639" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/gunnerwhocodes" target="blank"><img src="https://img.shields.io/twitter/follow/gunnerwhocodes?logo=twitter&style=for-the-badge" alt="gunnerwhocodes" /></a> </p>
 
