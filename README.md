@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnunair639?tab=repositories](https://github.com/vishnunair639?tab=repositories)
 
-- 💬 Ask me about **Javascript and Angular**
-
 - 📫 How to reach me **vishnunair639@gmail.com**
 
 - ⚡ Fun fact **I am a die hard supporter of the Arsenal football club**
